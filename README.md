@@ -9,3 +9,5 @@ __Description:__ Simple program made in Python with TK GUI to submit spam wherev
 * Can introduce custom phrases into the spamlist! 🎫
 * Free and open source! 🧾
 * Smells like lemon! 🍋
+
+![](./img/sample1.png)
