@@ -1,6 +1,7 @@
 # 📠MethaneTK
 
 __Description:__ Simple program made in Python with TK GUI to submit spam wherever you click! 📄📄📄📄 
+![](./img/sample1.png)
 
 ## Features:
 * Has a GUI 📟
